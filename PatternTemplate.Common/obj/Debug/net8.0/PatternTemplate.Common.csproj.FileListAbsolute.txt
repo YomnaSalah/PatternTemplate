@@ -1,0 +1,12 @@
+E:\Yomna\شخصي\PatternTemblet\PatternTemplate\PatternTemplate.Common\bin\Debug\net8.0\PatternTemplate.Common.deps.json
+E:\Yomna\شخصي\PatternTemblet\PatternTemplate\PatternTemplate.Common\bin\Debug\net8.0\PatternTemplate.Common.dll
+E:\Yomna\شخصي\PatternTemblet\PatternTemplate\PatternTemplate.Common\bin\Debug\net8.0\PatternTemplate.Common.pdb
+E:\Yomna\شخصي\PatternTemblet\PatternTemplate\PatternTemplate.Common\obj\Debug\net8.0\PatternTemplate.Common.csproj.AssemblyReference.cache
+E:\Yomna\شخصي\PatternTemblet\PatternTemplate\PatternTemplate.Common\obj\Debug\net8.0\PatternTemplate.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yomna\شخصي\PatternTemblet\PatternTemplate\PatternTemplate.Common\obj\Debug\net8.0\PatternTemplate.Common.AssemblyInfoInputs.cache
+E:\Yomna\شخصي\PatternTemblet\PatternTemplate\PatternTemplate.Common\obj\Debug\net8.0\PatternTemplate.Common.AssemblyInfo.cs
+E:\Yomna\شخصي\PatternTemblet\PatternTemplate\PatternTemplate.Common\obj\Debug\net8.0\PatternTemplate.Common.csproj.CoreCompileInputs.cache
+E:\Yomna\شخصي\PatternTemblet\PatternTemplate\PatternTemplate.Common\obj\Debug\net8.0\PatternTemplate.Common.dll
+E:\Yomna\شخصي\PatternTemblet\PatternTemplate\PatternTemplate.Common\obj\Debug\net8.0\refint\PatternTemplate.Common.dll
+E:\Yomna\شخصي\PatternTemblet\PatternTemplate\PatternTemplate.Common\obj\Debug\net8.0\PatternTemplate.Common.pdb
+E:\Yomna\شخصي\PatternTemblet\PatternTemplate\PatternTemplate.Common\obj\Debug\net8.0\ref\PatternTemplate.Common.dll
