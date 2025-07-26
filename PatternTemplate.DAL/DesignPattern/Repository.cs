@@ -45,7 +45,6 @@ namespace PatternTemplate.DAL
         public Repository(IUnitOfWork<PatternTemplateDbContext> unitOfWork, IHttpContextAccessor httpContext, IConfiguration configuration)
         {
             UserId = httpContext.UserId();
-            CurrentLanguage = httpContext.HttpContext.LanguageId();
             _uow = unitOfWork;
             _db = _uow.PatternTemplateDbContext;
             _configuration = configuration;

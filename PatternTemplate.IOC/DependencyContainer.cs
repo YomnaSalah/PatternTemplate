@@ -23,11 +23,6 @@ namespace PatternTemplate.IOC
             // var BllClasses = typeof(PageBll).Assembly.GetTypes().Where(p => p.IsClass && p.Name.ToLower().Contains("bll"));
 
             #region BLL
-            //BllClasses.ToList().ForEach(p =>
-            //{
-            //    services.AddScoped(p);
-
-            //});
 
             #endregion
 

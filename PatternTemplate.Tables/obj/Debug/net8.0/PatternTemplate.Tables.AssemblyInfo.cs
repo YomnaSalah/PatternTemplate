@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PatternTemplate.Tables")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27ed41e9c4e0e10e5d15c620e2274e56df1b3cf1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d9f99e4b7855f2033972f5f2de49d38e29f32d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("PatternTemplate.Tables")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PatternTemplate.Tables")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
