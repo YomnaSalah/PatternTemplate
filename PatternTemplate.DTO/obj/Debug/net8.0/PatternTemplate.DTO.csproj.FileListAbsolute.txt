@@ -9,3 +9,15 @@ E:\Yomna\شخصي\PatternTemblet\PatternTemplate\PatternTemplate.DTO\obj\Debug\n
 E:\Yomna\شخصي\PatternTemblet\PatternTemplate\PatternTemplate.DTO\obj\Debug\net8.0\refint\PatternTemplate.DTO.dll
 E:\Yomna\شخصي\PatternTemblet\PatternTemplate\PatternTemplate.DTO\obj\Debug\net8.0\PatternTemplate.DTO.pdb
 E:\Yomna\شخصي\PatternTemblet\PatternTemplate\PatternTemplate.DTO\obj\Debug\net8.0\ref\PatternTemplate.DTO.dll
+E:\Yomna\شخصي\PatternTemblet\PatternTemblet\PatternTemplate.DTO\bin\Debug\net8.0\PatternTemplate.DTO.deps.json
+E:\Yomna\شخصي\PatternTemblet\PatternTemblet\PatternTemplate.DTO\bin\Debug\net8.0\PatternTemplate.DTO.dll
+E:\Yomna\شخصي\PatternTemblet\PatternTemblet\PatternTemplate.DTO\bin\Debug\net8.0\PatternTemplate.DTO.pdb
+E:\Yomna\شخصي\PatternTemblet\PatternTemblet\PatternTemplate.DTO\obj\Debug\net8.0\PatternTemplate.DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yomna\شخصي\PatternTemblet\PatternTemblet\PatternTemplate.DTO\obj\Debug\net8.0\PatternTemplate.DTO.AssemblyInfoInputs.cache
+E:\Yomna\شخصي\PatternTemblet\PatternTemblet\PatternTemplate.DTO\obj\Debug\net8.0\PatternTemplate.DTO.AssemblyInfo.cs
+E:\Yomna\شخصي\PatternTemblet\PatternTemblet\PatternTemplate.DTO\obj\Debug\net8.0\PatternTemplate.DTO.csproj.CoreCompileInputs.cache
+E:\Yomna\شخصي\PatternTemblet\PatternTemblet\PatternTemplate.DTO\obj\Debug\net8.0\PatternTemplate.DTO.sourcelink.json
+E:\Yomna\شخصي\PatternTemblet\PatternTemblet\PatternTemplate.DTO\obj\Debug\net8.0\PatternTemplate.DTO.dll
+E:\Yomna\شخصي\PatternTemblet\PatternTemblet\PatternTemplate.DTO\obj\Debug\net8.0\refint\PatternTemplate.DTO.dll
+E:\Yomna\شخصي\PatternTemblet\PatternTemblet\PatternTemplate.DTO\obj\Debug\net8.0\PatternTemplate.DTO.pdb
+E:\Yomna\شخصي\PatternTemblet\PatternTemblet\PatternTemplate.DTO\obj\Debug\net8.0\ref\PatternTemplate.DTO.dll

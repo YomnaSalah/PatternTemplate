@@ -2926,8 +2926,8 @@
     },
     "PatternTemplate.Tables/1.0.0": {
       "type": "project",
-      "path": "../ClassLibrary1/PatternTemplate.Tables.csproj",
-      "msbuildProject": "../ClassLibrary1/PatternTemplate.Tables.csproj"
+      "path": "../PatternTemplate.Tables/PatternTemplate.Tables.csproj",
+      "msbuildProject": "../PatternTemplate.Tables/PatternTemplate.Tables.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2946,11 +2946,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemplate\\PatternTemplate.DAL\\PatternTemplate.DAL.csproj",
+      "projectUniqueName": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemblet\\PatternTemplate.DAL\\PatternTemplate.DAL.csproj",
       "projectName": "PatternTemplate.DAL",
-      "projectPath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemplate\\PatternTemplate.DAL\\PatternTemplate.DAL.csproj",
+      "projectPath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemblet\\PatternTemplate.DAL\\PatternTemplate.DAL.csproj",
       "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
-      "outputPath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemplate\\PatternTemplate.DAL\\obj\\",
+      "outputPath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemblet\\PatternTemplate.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2969,14 +2969,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemplate\\ClassLibrary1\\PatternTemplate.Tables.csproj": {
-              "projectPath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemplate\\ClassLibrary1\\PatternTemplate.Tables.csproj"
+            "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemblet\\PatternTemplate.Common\\PatternTemplate.Common.csproj": {
+              "projectPath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemblet\\PatternTemplate.Common\\PatternTemplate.Common.csproj"
             },
-            "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemplate\\PatternTemplate.Common\\PatternTemplate.Common.csproj": {
-              "projectPath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemplate\\PatternTemplate.Common\\PatternTemplate.Common.csproj"
+            "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemblet\\PatternTemplate.DTO\\PatternTemplate.DTO.csproj": {
+              "projectPath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemblet\\PatternTemplate.DTO\\PatternTemplate.DTO.csproj"
             },
-            "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemplate\\PatternTemplate.DTO\\PatternTemplate.DTO.csproj": {
-              "projectPath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemplate\\PatternTemplate.DTO\\PatternTemplate.DTO.csproj"
+            "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemblet\\PatternTemplate.Tables\\PatternTemplate.Tables.csproj": {
+              "projectPath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemblet\\PatternTemplate.Tables\\PatternTemplate.Tables.csproj"
             }
           }
         }

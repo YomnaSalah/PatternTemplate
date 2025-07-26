@@ -1,0 +1,12 @@
+E:\Yomna\شخصي\PatternTemblet\PatternTemblet\PatternTemplate.Tables\bin\Debug\net8.0\PatternTemplate.Tables.deps.json
+E:\Yomna\شخصي\PatternTemblet\PatternTemblet\PatternTemplate.Tables\bin\Debug\net8.0\PatternTemplate.Tables.dll
+E:\Yomna\شخصي\PatternTemblet\PatternTemblet\PatternTemplate.Tables\bin\Debug\net8.0\PatternTemplate.Tables.pdb
+E:\Yomna\شخصي\PatternTemblet\PatternTemblet\PatternTemplate.Tables\obj\Debug\net8.0\PatternTemplate.Tables.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yomna\شخصي\PatternTemblet\PatternTemblet\PatternTemplate.Tables\obj\Debug\net8.0\PatternTemplate.Tables.AssemblyInfoInputs.cache
+E:\Yomna\شخصي\PatternTemblet\PatternTemblet\PatternTemplate.Tables\obj\Debug\net8.0\PatternTemplate.Tables.AssemblyInfo.cs
+E:\Yomna\شخصي\PatternTemblet\PatternTemblet\PatternTemplate.Tables\obj\Debug\net8.0\PatternTemplate.Tables.csproj.CoreCompileInputs.cache
+E:\Yomna\شخصي\PatternTemblet\PatternTemblet\PatternTemplate.Tables\obj\Debug\net8.0\PatternTemplate.Tables.sourcelink.json
+E:\Yomna\شخصي\PatternTemblet\PatternTemblet\PatternTemplate.Tables\obj\Debug\net8.0\PatternTemplate.Tables.dll
+E:\Yomna\شخصي\PatternTemblet\PatternTemblet\PatternTemplate.Tables\obj\Debug\net8.0\refint\PatternTemplate.Tables.dll
+E:\Yomna\شخصي\PatternTemblet\PatternTemblet\PatternTemplate.Tables\obj\Debug\net8.0\PatternTemplate.Tables.pdb
+E:\Yomna\شخصي\PatternTemblet\PatternTemblet\PatternTemplate.Tables\obj\Debug\net8.0\ref\PatternTemplate.Tables.dll

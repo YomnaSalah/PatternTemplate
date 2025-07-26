@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemplate\\PatternTemplate.DTO\\PatternTemplate.DTO.csproj",
+      "projectUniqueName": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemblet\\PatternTemplate.DTO\\PatternTemplate.DTO.csproj",
       "projectName": "PatternTemplate.DTO",
-      "projectPath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemplate\\PatternTemplate.DTO\\PatternTemplate.DTO.csproj",
+      "projectPath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemblet\\PatternTemplate.DTO\\PatternTemplate.DTO.csproj",
       "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
-      "outputPath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemplate\\PatternTemplate.DTO\\obj\\",
+      "outputPath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemblet\\PatternTemplate.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",

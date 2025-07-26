@@ -13,9 +13,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\PatternTemplate.Tables.csproj" />
     <ProjectReference Include="..\PatternTemplate.Common\PatternTemplate.Common.csproj" />
     <ProjectReference Include="..\PatternTemplate.DTO\PatternTemplate.DTO.csproj" />
+    <ProjectReference Include="..\PatternTemplate.Tables\PatternTemplate.Tables.csproj" />
   </ItemGroup>
 
 </Project>

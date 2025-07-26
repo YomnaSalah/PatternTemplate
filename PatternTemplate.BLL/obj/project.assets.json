@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "PatternTemplate.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/PatternTemplate.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PatternTemplate.DTO.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "PatternTemplate.DTO/1.0.0": {
+      "type": "project",
+      "path": "../PatternTemplate.DTO/PatternTemplate.DTO.csproj",
+      "msbuildProject": "../PatternTemplate.DTO/PatternTemplate.DTO.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "PatternTemplate.DTO >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Mahmoud\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemplate\\PatternTemplate.BLL\\PatternTemplate.BLL.csproj",
+      "projectUniqueName": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemblet\\PatternTemplate.BLL\\PatternTemplate.BLL.csproj",
       "projectName": "PatternTemplate.BLL",
-      "projectPath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemplate\\PatternTemplate.BLL\\PatternTemplate.BLL.csproj",
+      "projectPath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemblet\\PatternTemplate.BLL\\PatternTemplate.BLL.csproj",
       "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
-      "outputPath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemplate\\PatternTemplate.BLL\\obj\\",
+      "outputPath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemblet\\PatternTemplate.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -35,7 +54,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemblet\\PatternTemplate.DTO\\PatternTemplate.DTO.csproj": {
+              "projectPath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemblet\\PatternTemplate.DTO\\PatternTemplate.DTO.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -3103,8 +3103,8 @@
     },
     "PatternTemplate.Tables/1.0.0": {
       "type": "project",
-      "path": "../ClassLibrary1/PatternTemplate.Tables.csproj",
-      "msbuildProject": "../ClassLibrary1/PatternTemplate.Tables.csproj"
+      "path": "../PatternTemplate.Tables/PatternTemplate.Tables.csproj",
+      "msbuildProject": "../PatternTemplate.Tables/PatternTemplate.Tables.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3121,11 +3121,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemplate\\PatternTemplate.IOC\\PatternTemplate.IOC.csproj",
+      "projectUniqueName": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemblet\\PatternTemplate.IOC\\PatternTemplate.IOC.csproj",
       "projectName": "PatternTemplate.IOC",
-      "projectPath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemplate\\PatternTemplate.IOC\\PatternTemplate.IOC.csproj",
+      "projectPath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemblet\\PatternTemplate.IOC\\PatternTemplate.IOC.csproj",
       "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
-      "outputPath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemplate\\PatternTemplate.IOC\\obj\\",
+      "outputPath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemblet\\PatternTemplate.IOC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3144,8 +3144,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemplate\\PatternTemplate.DAL\\PatternTemplate.DAL.csproj": {
-              "projectPath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemplate\\PatternTemplate.DAL\\PatternTemplate.DAL.csproj"
+            "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemblet\\PatternTemplate.DAL\\PatternTemplate.DAL.csproj": {
+              "projectPath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemblet\\PatternTemplate.DAL\\PatternTemplate.DAL.csproj"
             }
           }
         }

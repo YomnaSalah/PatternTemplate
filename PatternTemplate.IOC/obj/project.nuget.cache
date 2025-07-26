@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5FitEDjeiHsVI7OLtIN71IqHs9wz3thpDOY2U16LuB7mg8v71kkOtD7PPpNgK41WI6Zz+y9yD5TNIktKR4Unlg==",
+  "dgSpecHash": "IMrtRx6uunieNRlPi4nxgO6LDW1OPbLr74ZFqJOd8wputhYU/evqYJPj/JzKT1ctFC3rW6AZYnAjo2An9/vLyg==",
   "success": true,
-  "projectFilePath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemplate\\PatternTemplate.IOC\\PatternTemplate.IOC.csproj",
+  "projectFilePath": "E:\\Yomna\\شخصي\\PatternTemblet\\PatternTemblet\\PatternTemplate.IOC\\PatternTemplate.IOC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mahmoud\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Mahmoud\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
